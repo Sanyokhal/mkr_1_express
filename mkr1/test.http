@@ -1,0 +1,15 @@
+POST localhost:3016/task1
+Content-Type: application/json
+
+{
+  "side_a": 5,
+  "side_b": 9,
+  "angle": 60
+}
+###
+POST localhost:3016/task2
+Content-Type: application/json
+
+{
+  "number": 186471121
+}
